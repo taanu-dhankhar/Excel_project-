@@ -15,7 +15,8 @@ To use this project, download the repository and access the Excel file and relat
 
 ## Usage
 - Open the `sales_data_2023.xlsx` file to explore the raw data.
-- Refer to the `report.pdf` in the `docs` folder for a detailed analysis and findings.
+- Open the 'store_data'
+- Refer to the `report.pdf` for a detailed analysis and findings.
 - View visual insights in the `images` folder.
 
 
